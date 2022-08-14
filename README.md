@@ -1,2 +1,5 @@
 # type
-Projeto Alura type em Jquery
+
+Projeto baseado no Alura typer, projeto do curso de JQuery da Alura.
+
+Projeto em andamento: 0%
